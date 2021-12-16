@@ -522,3 +522,4 @@ namespace WorldPackets
         
      }
 }
+#endif // BattlegroundPackets_h__
